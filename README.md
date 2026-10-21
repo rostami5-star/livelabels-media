@@ -11,3 +11,4 @@ The source files (and the scripts that render them) live in the private
 |---|---|
 | `box-numbers/` | Box-number ads (post 1080×1350, story 1080×1920) |
 | `batch-2/` | Box-numbers reel, meme, seller tip, printer poll, before/after |
+| `price-ads/` | Price-comparison ads (story 1080×1920); competitors unnamed, prices checked Oct 19, 2026 |
