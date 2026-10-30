@@ -1,0 +1,31 @@
+# Live Labels
+
+> Live Labels is a Chrome extension for live sellers. The moment an item sells in a Whatnot or TikTok Shop live show, it prints a label on the seller's thermal label printer with the lot number, buyer username, item, price, the buyer's box number and the seller's logo. Free for 14 days, then $10/month or $99/year. Independent; not affiliated with Whatnot or TikTok.
+
+Not to be confused with other tools that have "Live Labels" in their name. This one is published on the Chrome Web Store as "Live Labels: Auto-Print Sale Labels for Live Sellers" (ID cecmkcfgmebadhpbkjlhcmnnokbjkfke) and posts on Instagram and TikTok as @livelabels.app.
+
+## How it works
+
+1. Add Live Labels to Chrome; a setup wizard connects the label printer and prints a test label (about two minutes).
+2. Open the Whatnot or TikTok Shop live show in Chrome.
+3. Open the Live Labels side panel and turn on Auto-print.
+4. Each auction win or sale prints a label right away.
+
+## Key facts
+
+- Platforms: Whatnot and TikTok Shop live shows in Chrome; other live-selling sites can be added in Settings.
+- Label contents: lot number, buyer, item, price, box number, date, header text and the seller's logo (each optional).
+- Box numbers: each buyer gets one box number that repeats on every label they buy, so their items go in one package.
+- Printers: USB and Bluetooth thermal printers directly from Chrome; any installed printer via Chrome's print dialog; QZ Tray and PrintNode for silent printing. Built-in settings for KNAON, JADENS, Nelko, Rongta, Phomemo, MUNBYN, POLONO, iDPRT, Rollo, Arkscan, Zebra, DYMO, Brother QL.
+- Label sizes: 2" x 1" up to 4" x 6", any orientation.
+- Also: one-click reprint, manual labels for off-camera sales, optional auto-print of downloaded shipping labels.
+- Privacy: sales history, logo and settings stay in the browser; no ads, analytics or tracking.
+- Current version: 1.26.0 (October 2026).
+
+## Links
+
+- [Website](https://rostami5-star.github.io/livelabels-media/): overview, FAQ
+- [Pricing](https://rostami5-star.github.io/livelabels-media/pricing.md): plans in plain text
+- [Chrome Web Store listing](https://chromewebstore.google.com/detail/cecmkcfgmebadhpbkjlhcmnnokbjkfke): install
+- [Instagram @livelabels.app](https://www.instagram.com/livelabels.app/): weekly live-selling tips
+- [TikTok @livelabels.app](https://www.tiktok.com/@livelabels.app)

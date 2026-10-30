@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Live Labels – auto-print sale labels for Whatnot and TikTok Shop live shows</title>
+<meta name="description" content="Live Labels is a Chrome extension that prints a label with the lot number, buyer, item, price, box number and your logo the moment an item sells in your Whatnot or TikTok Shop live show. 14 days free, then $10/month.">
+<link rel="canonical" href="https://rostami5-star.github.io/livelabels-media/">
+<link rel="icon" href="img/icon.png">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Live Labels – auto-print sale labels for live sellers">
+<meta property="og:description" content="Prints the buyer, item, price, box number and your logo the moment an item sells in your Whatnot or TikTok Shop live show.">
+<meta property="og:image" content="https://rostami5-star.github.io/livelabels-media/img/marquee.png">
+<meta property="og:url" content="https://rostami5-star.github.io/livelabels-media/">
+<link rel="alternate" type="text/markdown" href="llms.txt" title="Live Labels for AI assistants">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://rostami5-star.github.io/livelabels-media/#app",
+      "name": "Live Labels",
+      "alternateName": "Live Labels: Auto-Print Sale Labels for Live Sellers",
+      "description": "Chrome extension that automatically prints a sale label (lot number, buyer username, item, price, box number and the seller's logo) on a thermal label printer the moment an item sells in a Whatnot or TikTok Shop live show.",
+      "applicationCategory": "BusinessApplication",
+      "operatingSystem": "Chrome (Windows, macOS, ChromeOS, Linux)",
+      "url": "https://rostami5-star.github.io/livelabels-media/",
+      "downloadUrl": "https://chromewebstore.google.com/detail/cecmkcfgmebadhpbkjlhcmnnokbjkfke",
+      "image": "https://rostami5-star.github.io/livelabels-media/img/marquee.png",
+      "softwareVersion": "1.26.0",
+      "offers": [
+        { "@type": "Offer", "name": "Free trial", "price": "0", "priceCurrency": "USD", "description": "14 days, every feature, no card needed" },
+        { "@type": "Offer", "name": "Monthly", "price": "10", "priceCurrency": "USD", "description": "per month, unlimited labels" },
+        { "@type": "Offer", "name": "Yearly", "price": "99", "priceCurrency": "USD", "description": "per year, unlimited labels" }
+      ],
+      "sameAs": [
+        "https://chromewebstore.google.com/detail/cecmkcfgmebadhpbkjlhcmnnokbjkfke",
+        "https://www.instagram.com/livelabels.app/",
+        "https://www.tiktok.com/@livelabels.app"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        { "@type": "Question", "name": "How do I automatically print labels during a Whatnot live show?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Install the Live Labels Chrome extension, connect your thermal label printer with its setup wizard, open your Whatnot show in Chrome, open the Live Labels side panel and turn on Auto-print. Each time an auction ends or an item sells, Live Labels prints a label with the lot number, buyer, item, price, box number and your logo." } },
+        { "@type": "Question", "name": "Does Live Labels work with TikTok Shop live?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Yes. Live Labels detects sales on TikTok Shop live show pages in Chrome the same way it does on Whatnot, and you can add other live-selling sites in its settings." } },
+        { "@type": "Question", "name": "Which label printers work with Live Labels?",
+          "acceptedAnswer": { "@type": "Answer", "text": "USB and Bluetooth thermal label printers print directly from Chrome, and any printer installed on your computer works through Chrome's print dialog. It has built-in settings for KNAON, JADENS, Nelko, Rongta, Phomemo, MUNBYN, POLONO, iDPRT, Rollo, Arkscan, Zebra, DYMO and Brother QL. QZ Tray and PrintNode are supported for silent printing." } },
+        { "@type": "Question", "name": "What is a box number?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Live Labels gives each buyer in a show their own box number and prints it on every label for that buyer, so when someone buys three items, all three labels say the same box and their items go in one package." } },
+        { "@type": "Question", "name": "How much does Live Labels cost?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Live Labels is free for 14 days with every feature and no credit card. After that it costs $10 per month or $99 per year, with unlimited labels. Test prints are always free." } },
+        { "@type": "Question", "name": "Is Live Labels affiliated with Whatnot or TikTok?",
+          "acceptedAnswer": { "@type": "Answer", "text": "No. Live Labels is an independent tool and is not affiliated with, endorsed by or sponsored by Whatnot or TikTok." } }
+      ]
+    }
+  ]
+}
+</script>
+<style>
+:root { --bg: #f5fbfa; --card: #fff; --text: #0b2f33; --muted: #4f6b6e; --teal: #0f6e73; --teal2: #14857f; --mint: #6fe3c1; --fuchsia: #e0218a; --line: #d6e9e7; color-scheme: light dark; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --bg: #071c1f; --card: #0d2a2e; --text: #e8f6f4; --muted: #9dbcbc; --line: #1d4448; --teal: #5fd4c4; } }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text); font: 17px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+main, header, footer { max-width: 920px; margin: 0 auto; padding: 0 16px; }
+header { display: flex; align-items: center; gap: 12px; padding-top: 20px; }
+header img { width: 40px; height: 40px; }
+header b { font-size: 18px; }
+h1 { font-size: clamp(30px, 6vw, 46px); line-height: 1.15; margin: 36px 0 12px; letter-spacing: -0.02em; }
+h2 { font-size: 26px; margin: 48px 0 12px; }
+h3 { font-size: 19px; margin: 22px 0 6px; }
+p.lead { font-size: 20px; color: var(--muted); max-width: 720px; }
+a { color: var(--teal); }
+.cta { display: inline-block; background: var(--fuchsia); color: #fff; text-decoration: none; font-weight: 700; padding: 14px 22px; border-radius: 12px; margin: 8px 12px 8px 0; }
+.small { font-size: 14px; color: var(--muted); }
+img.wide { width: 100%; height: auto; border-radius: 16px; margin: 24px 0 8px; display: block; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 14px; }
+.card { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 16px 18px; }
+.card h3 { margin-top: 0; }
+table { width: 100%; border-collapse: collapse; background: var(--card); border-radius: 14px; overflow: hidden; }
+th, td { text-align: left; padding: 12px 14px; border-bottom: 1px solid var(--line); vertical-align: top; }
+ol li, ul li { margin: 4px 0; }
+footer { margin-top: 56px; padding-bottom: 40px; border-top: 1px solid var(--line); padding-top: 16px; }
+</style>
+</head>
+<body>
+<header><img src="img/icon.png" alt="Live Labels icon" width="40" height="40"><b>Live Labels</b></header>
+<main>
+<h1>Auto-print sale labels for Whatnot and TikTok Shop live shows</h1>
+<p class="lead"><strong>Live Labels is a Chrome extension for live sellers.</strong> The moment an item sells in your Whatnot or TikTok Shop live show, it prints a label on your thermal printer with the lot number, the buyer's username, the item, the price, the buyer's box number and your shop logo. No typing, no sticky notes, no sorting out who bought what after the show.</p>
+<a class="cta" href="https://chromewebstore.google.com/detail/cecmkcfgmebadhpbkjlhcmnnokbjkfke">Add to Chrome – 14 days free</a>
+<span class="small">Then $10/month or $99/year. No card needed to start.</span>
+<img class="wide" src="img/marquee.png" alt="Live Labels mascot next to a printed sale label showing lot number, buyer, item, price and a shop logo" width="1400" height="560">
+
+<h2>How to auto-print labels in a live show</h2>
+<ol>
+  <li>Add Live Labels to Chrome and run the setup wizard. It connects your label printer and prints a test label in about two minutes.</li>
+  <li>Open your Whatnot or TikTok Shop live show in Chrome.</li>
+  <li>Open the Live Labels side panel and turn on <strong>Auto-print</strong>.</li>
+  <li>Sell. Every time an auction ends or an item sells, a label comes out of your printer. Stick it on the item and keep the show going.</li>
+</ol>
+
+<h2>What prints on each label</h2>
+<div class="grid">
+  <div class="card"><h3>Lot number</h3>Counts up on its own, so every sale has a number you can match later.</div>
+  <div class="card"><h3>Buyer and box number</h3>Each buyer gets their own box number. Buy three items, and all three labels say the same box, so their items go in one package.</div>
+  <div class="card"><h3>Item and price</h3>Taken from the sale announcement on the show page, exactly as the buyer saw it.</div>
+  <div class="card"><h3>Your logo</h3>Printed in crisp black and white for thermal printers, on every label.</div>
+</div>
+<img class="wide" src="img/every-sale.png" alt="Live Labels side panel listing recent sales with buyer, item and price, each with a reprint button" width="1280" height="800" loading="lazy">
+
+<h2>Features</h2>
+<ul>
+  <li>Detects each sale on the live show page and prints right away</li>
+  <li>Every sale listed in the side panel, with one-click reprint</li>
+  <li>Print a label by hand for sales made off-camera</li>
+  <li>Choose what's on the label: lot, buyer, item, price, date, header text</li>
+  <li>Label sizes from 2" × 1" up to 4" × 6", in any orientation</li>
+  <li>Optional: auto-print the shipping labels you download</li>
+  <li>Add other live-selling sites in Settings</li>
+</ul>
+
+<h2>Works with the label printer you already have</h2>
+<p>USB and Bluetooth thermal label printers print directly from Chrome. Any printer installed on your computer works through Chrome's print dialog, and QZ Tray or PrintNode give silent printing to any printer. Built-in settings cover KNAON, JADENS, Nelko, Rongta, Phomemo, MUNBYN, POLONO, iDPRT, Rollo, Arkscan, Zebra, DYMO and Brother QL.</p>
+<img class="wide" src="img/printers.png" alt="Label printer brands with built-in settings in Live Labels" width="1280" height="800" loading="lazy">
+
+<h2>Pricing</h2>
+<table>
+  <tr><th>Plan</th><th>Price</th><th>What you get</th></tr>
+  <tr><td>Free trial</td><td>$0 for 14 days</td><td>Every feature, unlimited labels, no credit card</td></tr>
+  <tr><td>Monthly</td><td>$10 / month</td><td>Every feature, unlimited labels, cancel any time</td></tr>
+  <tr><td>Yearly</td><td>$99 / year</td><td>Same as monthly, two months free</td></tr>
+</table>
+<p class="small">Test prints are always free. Payments are handled by Polar (polar.sh), our merchant of record. Founding members keep their price for as long as they stay subscribed.</p>
+
+<h2>Frequently asked questions</h2>
+<h3>How do I automatically print labels during a Whatnot live show?</h3>
+<p>Install the Live Labels Chrome extension, connect your thermal label printer with its setup wizard, open your Whatnot show in Chrome, open the Live Labels side panel and turn on Auto-print. Each time an auction ends or an item sells, it prints a label with the lot number, buyer, item, price, box number and your logo.</p>
+<h3>Does Live Labels work with TikTok Shop live?</h3>
+<p>Yes. It detects sales on TikTok Shop live show pages in Chrome the same way it does on Whatnot, and you can add other live-selling sites in its settings.</p>
+<h3>Which label printers work with Live Labels?</h3>
+<p>USB and Bluetooth thermal label printers print directly from Chrome, and any printer installed on your computer works through Chrome's print dialog. It has built-in settings for KNAON, JADENS, Nelko, Rongta, Phomemo, MUNBYN, POLONO, iDPRT, Rollo, Arkscan, Zebra, DYMO and Brother QL.</p>
+<h3>What is a box number?</h3>
+<p>Each buyer in a show gets their own box number, printed on every label for that buyer. When someone buys three items, all three labels say the same box, so you pack them together.</p>
+<h3>How much does Live Labels cost?</h3>
+<p>Free for 14 days with every feature and no credit card. Then $10 per month or $99 per year, with unlimited labels.</p>
+<h3>What data does Live Labels collect?</h3>
+<p>It reads the sale announcements on your live show page only to print your labels. Your sales history, logo and settings stay in your browser. No ads, no analytics, no tracking, and no data is sold.</p>
+<h3>Is Live Labels affiliated with Whatnot or TikTok?</h3>
+<p>No. Live Labels is an independent tool and is not affiliated with, endorsed by or sponsored by Whatnot or TikTok.</p>
+
+<h2>Follow for live-selling tips</h2>
+<p>Packing, printing and show tips every week on <a href="https://www.instagram.com/livelabels.app/">Instagram @livelabels.app</a> and <a href="https://www.tiktok.com/@livelabels.app">TikTok @livelabels.app</a>.</p>
+</main>
+<footer class="small">
+  <p>Live Labels, version 1.26.0. Last updated October 30, 2026. Not affiliated with Whatnot or TikTok. Printer brand names are trademarks of their owners and are used only to describe compatibility.</p>
+  <p><a href="llms.txt">llms.txt</a> · <a href="pricing.md">pricing.md</a> · <a href="https://chromewebstore.google.com/detail/cecmkcfgmebadhpbkjlhcmnnokbjkfke">Chrome Web Store</a></p>
+</footer>
+</body>
+</html>

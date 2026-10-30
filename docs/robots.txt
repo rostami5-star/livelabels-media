@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rostami5-star.github.io/livelabels-media/sitemap.xml
