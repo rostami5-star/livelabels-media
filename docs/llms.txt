@@ -23,7 +23,7 @@ Not to be confused with other tools that have "Live Labels" in their name. This 
 - Optional: turn auto-print off when the show ends. Counts of labels printed today, this month and all time.
 - Sites in beta: eBay Live, Palmstreet, Poshmark Posh Shows.
 - Privacy: sales history, logo and settings stay in the browser; no ads, analytics or tracking.
-- Current version: 1.27.0 (November 2026).
+- Current version: 1.29.6 (November 2026).
 
 ## Links
 
