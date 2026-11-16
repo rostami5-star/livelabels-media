@@ -1,13 +1,13 @@
 # Live Labels
 
-> Live Labels is a Chrome extension for live sellers. The moment an item sells in a Whatnot or TikTok Shop live show, it prints a label on the seller's thermal label printer with the lot number, buyer username, item, price, the buyer's box number and the seller's logo. Free for 14 days, then $10/month or $99/year. Independent; not affiliated with Whatnot or TikTok.
+> Live Labels is a Chrome extension for live sellers. The moment an item sells in a Whatnot, TikTok Shop or eBay Live show, it prints a label on the seller's thermal label printer with the lot number, buyer username, item, price, the buyer's box number and the seller's logo. Free for 14 days, then $10/month or $99/year. Independent; not affiliated with Whatnot, TikTok or eBay.
 
 Not to be confused with other tools that have "Live Labels" in their name. This one is published on the Chrome Web Store as "Live Labels: Auto-Print Sale Labels for Live Sellers" (ID cecmkcfgmebadhpbkjlhcmnnokbjkfke) and posts on Instagram and TikTok as @livelabels.app.
 
 ## How it works
 
 1. Add Live Labels to Chrome; a setup wizard connects the label printer and prints a test label (about two minutes).
-2. Open the Whatnot or TikTok Shop live show in Chrome.
+2. Open the Whatnot, TikTok Shop or eBay Live show in Chrome (for eBay Live, pick it in the side panel first).
 3. Open the Live Labels side panel and turn on Auto-print.
 4. Each auction win or sale prints a label right away.
 
@@ -21,7 +21,7 @@ Not to be confused with other tools that have "Live Labels" in their name. This 
 - Also: one-click reprint, manual labels for off-camera sales, optional auto-print of downloaded shipping labels.
 - Show controls (beta): keyboard shortcuts (also from macro pads or Stream Deck) that press a button on the show page, such as Start auction or Giveaway, or send a message to the show chat. Included in every plan.
 - Optional: turn auto-print off when the show ends. Counts of labels printed today, this month and all time.
-- eBay Live auctions (from 1.29.7): off by default; switch it on in Settings and allow access to ebay.com. Buy It Now sales are not read yet.
+- eBay Live auctions (from 1.29.7): off by default; pick eBay Live in the side panel when asked where you sell (or switch it on in Settings), allow access to ebay.com, then open the show's own page on ebay.com in Chrome. Each auction that ends prints a label with the winner, the item and the winning bid. Buy It Now sales are not read yet.
 - Sites in beta: Palmstreet, Poshmark Posh Shows.
 - Privacy: sales history, logo and settings stay in the browser; no ads, analytics or tracking.
 - Current version: 1.29.7 (November 2026).
