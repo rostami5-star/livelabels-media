@@ -22,9 +22,10 @@ Not to be confused with other tools that have "Live Labels" in their name. This 
 - Show controls (beta): keyboard shortcuts (also from macro pads or Stream Deck) that press a button on the show page, such as Start auction or Giveaway, or send a message to the show chat. Included in every plan.
 - Optional: turn auto-print off when the show ends. Counts of labels printed today, this month and all time.
 - eBay Live auctions (from 1.29.7): off by default; pick eBay Live in the side panel when asked where you sell (or switch it on in Settings), allow access to ebay.com, then open the show's own page on ebay.com in Chrome. Each auction that ends prints a label with the winner, the item and the winning bid. Buy It Now sales are not read yet.
-- Sites in beta: Palmstreet, Poshmark Posh Shows.
+- Poshmark Posh Show auctions (from 1.29.10): off by default; pick Poshmark in the side panel when asked where you sell (or switch it on in Settings), allow access to poshmark.com, then open the show on poshmark.com. Each auction that ends prints a label with the winner, the item and the winning bid. Buy Now sales and giveaways are not read yet.
+- Sites in beta: Palmstreet.
 - Privacy: sales history, logo and settings stay in the browser; no ads, analytics or tracking.
-- Current version: 1.29.7 (November 2026).
+- Current version: 1.29.10 (November 2026).
 
 ## Links
 
