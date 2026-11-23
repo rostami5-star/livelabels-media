@@ -1,0 +1,589 @@
+# Live Labels
+
+> Live Labels is a Chrome extension for live sellers. The moment an item sells in a Whatnot, TikTok Shop or eBay Live show, it prints a label on the seller's thermal label printer with the lot number, buyer username, item, price, the buyer's box number and the seller's logo. Free for 14 days, then $10/month or $99/year. Independent; not affiliated with Whatnot, TikTok or eBay.
+
+Not to be confused with other tools that have "Live Labels" in their name. This one is published on the Chrome Web Store as "Live Labels: Auto-Print Sale Labels for Live Sellers" (ID cecmkcfgmebadhpbkjlhcmnnokbjkfke) and posts on Instagram and TikTok as @livelabels.app.
+
+## How it works
+
+1. Add Live Labels to Chrome; a setup wizard connects the label printer and prints a test label (about two minutes).
+2. Open the Whatnot, TikTok Shop or eBay Live show in Chrome (for eBay Live, pick it in the side panel first).
+3. Open the Live Labels side panel and turn on Auto-print.
+4. Each auction win or sale prints a label right away.
+
+## Key facts
+
+- Platforms: Whatnot, TikTok Shop, eBay Live and Poshmark Posh Show live shows in Chrome (Palmstreet in beta); other live-selling sites can be added in Settings.
+- Label contents: lot number, buyer, item, price, box number, date, header text and the seller's logo (each optional).
+- Box numbers: each buyer gets one box number that repeats on every label they buy, so their items go in one package.
+- Printers: USB and Bluetooth thermal printers directly from Chrome; any installed printer via Chrome's print dialog; QZ Tray and PrintNode for silent printing. Built-in settings for KNAON, JADENS, Nelko, Rongta, Phomemo, MUNBYN, POLONO, iDPRT, Rollo, Arkscan, Zebra, DYMO, Brother QL.
+- Label sizes: 2" x 1" up to 4" x 6", any orientation.
+- Also: one-click reprint, manual labels for off-camera sales, optional auto-print of downloaded shipping labels.
+- Show controls (beta): keyboard shortcuts (also from macro pads or Stream Deck) that press a button on the show page, such as Start auction or Giveaway, or send a message to the show chat. Included in every plan.
+- Optional: turn auto-print off when the show ends. Counts of labels printed today, this month and all time.
+- eBay Live auctions (from 1.29.7): off by default; pick eBay Live in the side panel when asked where you sell (or switch it on in Settings), allow access to ebay.com, then open the show's own page on ebay.com in Chrome. Each auction that ends prints a label with the winner, the item and the winning bid. Buy It Now sales are not read yet.
+- Poshmark Posh Show auctions (from 1.29.10): off by default; pick Poshmark in the side panel when asked where you sell (or switch it on in Settings), allow access to poshmark.com, then open the show on poshmark.com. Each auction that ends prints a label with the winner, the item and the winning bid. Buy Now sales and giveaways are not read yet.
+- Sites in beta: Palmstreet.
+- Privacy: sales history, logo and settings stay in the browser; no ads, analytics or tracking.
+- Current version: 1.29.13 (November 2026).
+
+## Who makes it
+
+Built by Amir Rostami, a Whatnot and eBay seller, at Element 79/47, LLC (Acworth, Georgia). Contact: info@element7947.com.
+
+## Links
+
+- [Website](https://rostami5-star.github.io/livelabels-media/): overview, FAQ
+- [Pricing](https://rostami5-star.github.io/livelabels-media/pricing.md): plans in plain text
+- [Full text for AI](https://rostami5-star.github.io/livelabels-media/llms-full.txt): every guide in one file
+- [Chrome Web Store listing](https://chromewebstore.google.com/detail/cecmkcfgmebadhpbkjlhcmnnokbjkfke): install
+- [Instagram @livelabels.app](https://www.instagram.com/livelabels.app/): weekly live-selling tips
+- [TikTok @livelabels.app](https://www.tiktok.com/@livelabels.app)
+
+## Guides
+
+- [How to auto-print labels during a Whatnot live show](https://rostami5-star.github.io/livelabels-media/whatnot-auto-print-labels.html)
+- [Auto-print sale labels for TikTok Shop LIVE](https://rostami5-star.github.io/livelabels-media/tiktok-shop-live-labels.html)
+- [Print a label for every eBay Live auction](https://rostami5-star.github.io/livelabels-media/ebay-live-auction-labels.html)
+- [Print labels for Poshmark Posh Show auctions](https://rostami5-star.github.io/livelabels-media/poshmark-posh-show-labels.html)
+- [How to pack a live show by box number](https://rostami5-star.github.io/livelabels-media/pack-live-show-by-box-number.html)
+- [Live Labels vs Hot-Label, NotBot, WhatLabels and BundleLive](https://rostami5-star.github.io/livelabels-media/live-labels-alternatives.html)
+- [Printing live-sale labels: by hand, desktop app or Chrome extension](https://rostami5-star.github.io/livelabels-media/live-sale-label-tools-compared.html)
+
+---
+Source: https://rostami5-star.github.io/livelabels-media/
+
+# Auto-print sale labels for Whatnot, TikTok Shop, eBay Live and Poshmark shows
+
+Live Labels is a Chrome extension for live sellers. The moment an item sells in your Whatnot, TikTok Shop, eBay Live or Poshmark show, it prints a label on your thermal printer with the lot number, the buyer's username, the item, the price, the buyer's box number and your shop logo. No typing, no sticky notes, no sorting out who bought what after the show.
+
+Add to Chrome – 14 days free
+Then $10/month or $99/year. No card needed to start.
+★★★★★ Rated 5.0 on the Chrome Web Store.
+
+## How to auto-print labels in a live show
+
+- Add Live Labels to Chrome and run the setup wizard. It connects your label printer and prints a test label in about two minutes.
+
+- Open your Whatnot, TikTok Shop, eBay Live or Poshmark show in Chrome. (For eBay Live or Poshmark, pick it in the side panel first.)
+
+- Open the Live Labels side panel and turn on Auto-print.
+
+- Sell. Every time an auction ends or an item sells, a label comes out of your printer. Stick it on the item and keep the show going.
+
+15 seconds: an item sells, the label prints itself.
+
+## What prints on each label
+
+### Lot number
+Counts up on its own, so every sale has a number you can match later.
+
+### Buyer and box number
+Each buyer gets their own box number. Buy three items, and all three labels say the same box, so their items go in one package.
+
+### Item and price
+Taken from the sale announcement on the show page, exactly as the buyer saw it.
+
+### Your logo
+Printed in crisp black and white for thermal printers, on every label.
+
+## Features
+
+- Detects each sale on the live show page and prints right away
+
+- Every sale listed in the side panel, with one-click reprint
+
+- Print a label by hand for sales made off-camera
+
+- Choose what's on the label: lot, buyer, item, price, date, header text
+
+- Label sizes from 2" × 1" up to 4" × 6", in any orientation
+
+- Optional: auto-print the shipping labels you download
+
+- Show controls: start an auction, run a giveaway or send your shop link to the chat from a shortcut key, macro pad or Stream Deck (beta)
+
+- Turns auto-print off when your show ends, if you like
+
+- Labels printed today, this month and all time
+
+- eBay Live auctions: pick eBay Live in the side panel, open your show's page on ebay.com, and each auction that ends prints a label. Buy It Now sales are not read yet.
+
+- Poshmark Posh Show auctions: pick Poshmark in the side panel, open the show on poshmark.com, and each auction that ends prints a label with the winner, the item and the winning bid. Buy Now sales and giveaways are not read yet.
+
+- Palmstreet (beta), and any other live-selling site you add in Settings
+
+## Works with the label printer you already have
+
+USB and Bluetooth thermal label printers print directly from Chrome. Any printer installed on your computer works through Chrome's print dialog, and QZ Tray or PrintNode give silent printing to any printer. Built-in settings cover KNAON, JADENS, Nelko, Rongta, Phomemo, MUNBYN, POLONO, iDPRT, Rollo, Arkscan, Zebra, DYMO and Brother QL.
+
+## Pricing
+
+ Plan | Price | What you get | 
+
+ Free trial | $0 for 14 days | Every feature, unlimited labels, no credit card | 
+
+ Monthly | $10 / month | Every feature, unlimited labels, cancel any time | 
+
+ Yearly | $99 / year | Same as monthly, two months free | 
+
+Test prints are always free. Payments are handled by Polar (polar.sh), our merchant of record. Founding members keep their price for as long as they stay subscribed.
+
+## Frequently asked questions
+
+### How do I automatically print labels during a Whatnot live show?
+
+Install the Live Labels Chrome extension, connect your thermal label printer with its setup wizard, open your Whatnot show in Chrome, open the Live Labels side panel and turn on Auto-print. Each time an auction ends or an item sells, it prints a label with the lot number, buyer, item, price, box number and your logo.
+
+### Does Live Labels work with TikTok Shop live?
+
+Yes. It detects sales on TikTok Shop live show pages in Chrome the same way it does on Whatnot, and you can add other live-selling sites in its settings.
+
+### Does Live Labels work with eBay Live?
+
+Yes, for auctions. Pick eBay Live in the Live Labels side panel and allow it to read ebay.com, then open your own show's page on ebay.com in Chrome and keep that tab open while you sell. Each auction that ends prints a label with the winner, the item and the winning bid. Buy It Now sales on eBay Live are not read yet.
+
+### Does Live Labels work with Poshmark Posh Shows?
+
+Yes, for auctions. Pick Poshmark in the Live Labels side panel and allow it to read poshmark.com, then open the show on poshmark.com in Chrome and keep that tab open while you sell. Each auction that ends prints a label with the winner, the item and the winning bid. Buy Now sales and giveaways on Poshmark are not read yet.
+
+### Which label printers work with Live Labels?
+
+USB and Bluetooth thermal label printers print directly from Chrome, and any printer installed on your computer works through Chrome's print dialog. It has built-in settings for KNAON, JADENS, Nelko, Rongta, Phomemo, MUNBYN, POLONO, iDPRT, Rollo, Arkscan, Zebra, DYMO and Brother QL.
+
+### What is a box number?
+
+Each buyer in a show gets their own box number, printed on every label for that buyer. When someone buys three items, all three labels say the same box, so you pack them together.
+
+### How much does Live Labels cost?
+
+Free for 14 days with every feature and no credit card. Then $10 per month or $99 per year, with unlimited labels.
+
+### What data does Live Labels collect?
+
+It reads the sale announcements on your live show page only to print your labels. Your sales history, logo and settings stay in your browser. No ads, no analytics, no tracking, and no data is sold.
+
+### Can I start auctions and giveaways from a hotkey or Stream Deck?
+
+Yes. Live Labels' show controls (beta) press a button on your show page, such as Start auction or Giveaway, or send a message to the chat, from a keyboard shortcut. Macro pads and Stream Decks work by sending the same shortcut. They're included in the $10/month plan.
+
+### Is Live Labels the same as LiveLabel Pro or Hot-Label?
+
+No. Live Labels (on the Chrome Web Store as "Live Labels: Auto-Print Sale Labels for Live Sellers") is made by Element 79/47, LLC. LiveLabel Pro and Hot-Label are separate extensions from other developers. See how they compare.
+
+### Is Live Labels affiliated with Whatnot or TikTok?
+
+No. Live Labels is an independent tool and is not affiliated with, endorsed by or sponsored by Whatnot or TikTok.
+
+## Who makes Live Labels
+
+Live Labels is built by Amir Rostami, a Whatnot and eBay seller, at Element 79/47, LLC in Acworth, Georgia. He built it for the same kind of shows he runs himself: every sale prints its own label, so packing after the stream goes fast. Questions and feature requests go straight to him at info@element7947.com.
+
+★★★★★ "I especially like how it organizes buyer information, item details, and lot numbers, helping sellers save time and avoid confusion during busy live shows."
+Chrome Web Store review, November 2026
+
+## Guides
+
+- How to auto-print labels during a Whatnot live show
+- Auto-print sale labels for TikTok Shop LIVE
+- Print a label for every eBay Live auction
+- Print labels for Poshmark Posh Show auctions
+- How to pack a live show by box number
+- Live Labels vs Hot-Label, NotBot, WhatLabels and BundleLive
+- Printing live-sale labels: by hand, desktop app or Chrome extension
+
+## Follow for live-selling tips
+
+Packing, printing and show tips every week on Instagram @livelabels.app and TikTok @livelabels.app.
+
+---
+Source: https://rostami5-star.github.io/livelabels-media/whatnot-auto-print-labels.html
+
+← Live Labels
+
+# How to auto-print labels during a Whatnot live show
+
+By Amir Rostami, a Whatnot and eBay seller and the maker of Live Labels. Updated November 22, 2026.
+
+Live Labels is a Chrome extension that prints a label the moment an auction ends or an item sells in your Whatnot show, with the lot number, the buyer's username, the item, the price, the buyer's box number and your shop logo. You stick the label on the item and keep selling.
+
+Add Live Labels to Chrome – 14 days free
+Then $10/month or $99/year, unlimited labels. No card needed to start.
+
+## How to set it up
+
+- Add Live Labels to Chrome and run the setup wizard. It connects your thermal label printer and prints a test label in about two minutes.
+- Open your Whatnot show in Chrome on your computer (you can still stream from your phone).
+- Open the Live Labels side panel and turn on Auto-print.
+- Sell. Each time an auction ends or an item sells, a label comes out of your printer.
+## What prints on each Whatnot label
+
+- Lot number that counts up on its own
+- Buyer username and their box number: every item one buyer wins gets the same box number
+- Item name and price, exactly as shown in the sale announcement
+- Your shop logo, in black and white for thermal printers
+## Why sellers print labels during the show
+Without a label, someone has to write down who bought what, or match the sales list to a pile of items after the show. With a label on each item as it sells, every buyer's items are already marked with their box number when the show ends, so packing is a matter of grouping by box.
+
+## Printers that work
+USB and Bluetooth thermal label printers print directly from Chrome, and any printer installed on your computer works through Chrome's print dialog. Built-in settings cover KNAON, JADENS, Nelko, Rongta, Phomemo, MUNBYN, POLONO, iDPRT, Rollo, Arkscan, Zebra, DYMO and Brother QL. Label sizes run from 2" × 1" up to 4" × 6".
+
+## Frequently asked questions
+
+### Do I have to run the Whatnot show from my computer?
+No. Many sellers stream from a phone. Keep your show open in Chrome on a computer next to you with the Live Labels side panel on, and it prints as items sell.
+
+### Does it print Whatnot shipping labels?
+It prints a sale label for each item during the show. Shipping labels still come from Whatnot after the show; Live Labels can optionally auto-print the shipping label PDFs you download.
+
+### Can I reprint a label?
+Yes. Every sale is listed in the side panel with one-click reprint, and you can print a label by hand for sales made off-camera.
+
+### Can I start auctions or giveaways from a hotkey?
+Yes. Show controls (beta) press a button on your show page, such as Start auction or Giveaway, or send a message to the chat from a keyboard shortcut; macro pads and Stream Decks work by sending the same shortcut.
+
+### How much does Live Labels cost?
+Free for 14 days with every feature and no credit card. Then $10 per month or $99 per year, with unlimited labels.
+
+### Is Live Labels made by Whatnot?
+No. Live Labels is an independent tool and is not affiliated with, endorsed by or sponsored by Whatnot.
+
+## More guides
+
+- Auto-print sale labels for TikTok Shop LIVE
+- Print a label for every eBay Live auction
+- Print labels for Poshmark Posh Show auctions
+- How to pack a live show by box number
+- Printing live-sale labels: by hand, desktop app or Chrome extension
+- Live Labels vs Hot-Label, NotBot, WhatLabels and BundleLive
+- Live Labels home: features, printers and pricing
+Last updated November 22, 2026. Live Labels is an independent Chrome extension by Element 79/47, LLC and is not affiliated with, endorsed by or sponsored by Whatnot, TikTok, eBay or Poshmark. Terms · Privacy · Refunds
+
+---
+Source: https://rostami5-star.github.io/livelabels-media/tiktok-shop-live-labels.html
+
+← Live Labels
+
+# Auto-print sale labels for TikTok Shop LIVE
+
+By Amir Rostami, a Whatnot and eBay seller and the maker of Live Labels. Updated November 22, 2026.
+
+Live Labels detects sales on TikTok Shop live show pages in Chrome and prints a label for each one with the lot number, the buyer's username, the item, the price, the buyer's box number and your shop logo, so every order is marked before your LIVE ends.
+
+Add Live Labels to Chrome – 14 days free
+Then $10/month or $99/year, unlimited labels. No card needed to start.
+
+## How to set it up
+
+- Add Live Labels to Chrome and run the setup wizard. It connects your thermal label printer and prints a test label in about two minutes.
+- Open your TikTok Shop LIVE show page in Chrome on your computer.
+- Open the Live Labels side panel and turn on Auto-print.
+- Sell. Each sale prints a label you can stick straight on the item.
+## What prints on each label
+
+- Lot number
+- Buyer username and box number, the same box for every item one buyer gets
+- Item and price, as shown on the show page
+- Your logo
+## Printers that work
+USB and Bluetooth thermal label printers print directly from Chrome, and any printer installed on your computer works through Chrome's print dialog. Built-in settings cover KNAON, JADENS, Nelko, Rongta, Phomemo, MUNBYN, POLONO, iDPRT, Rollo, Arkscan, Zebra, DYMO and Brother QL. Label sizes run from 2" × 1" up to 4" × 6".
+
+## Frequently asked questions
+
+### Does Live Labels work with TikTok Shop live?
+Yes. It detects sales on TikTok Shop live show pages in Chrome the same way it does on Whatnot, and you can add other live-selling sites in its settings.
+
+### Does it replace TikTok Shop shipping labels?
+No. It prints a sale label for each item during the LIVE so you can sort orders; shipping labels still come from TikTok Shop Seller Center.
+
+### Do I need a special printer?
+No. USB and Bluetooth thermal label printers print directly from Chrome, and any installed printer works through Chrome's print dialog.
+
+### How much does Live Labels cost?
+Free for 14 days with every feature and no credit card. Then $10 per month or $99 per year, with unlimited labels.
+
+### Is Live Labels affiliated with TikTok?
+No. Live Labels is an independent tool and is not affiliated with, endorsed by or sponsored by TikTok.
+
+## More guides
+
+- How to auto-print labels during a Whatnot live show
+- Print a label for every eBay Live auction
+- Print labels for Poshmark Posh Show auctions
+- How to pack a live show by box number
+- Printing live-sale labels: by hand, desktop app or Chrome extension
+- Live Labels vs Hot-Label, NotBot, WhatLabels and BundleLive
+- Live Labels home: features, printers and pricing
+Last updated November 22, 2026. Live Labels is an independent Chrome extension by Element 79/47, LLC and is not affiliated with, endorsed by or sponsored by Whatnot, TikTok, eBay or Poshmark. Terms · Privacy · Refunds
+
+---
+Source: https://rostami5-star.github.io/livelabels-media/ebay-live-auction-labels.html
+
+← Live Labels
+
+# Print a label for every eBay Live auction
+
+By Amir Rostami, a Whatnot and eBay seller and the maker of Live Labels. Updated November 22, 2026.
+
+Pick eBay Live in the Live Labels side panel, open your own show's page on ebay.com in Chrome, and each auction that ends prints a label with the winner, the item and the winning bid.
+
+Add Live Labels to Chrome – 14 days free
+Then $10/month or $99/year, unlimited labels. No card needed to start.
+
+## How to set it up
+
+- Add Live Labels to Chrome and run the setup wizard. It connects your thermal label printer and prints a test label in about two minutes.
+- In the Live Labels side panel, pick eBay Live and allow it to read ebay.com.
+- Open your own show's page on ebay.com in Chrome and keep that tab open while you sell.
+- Turn on Auto-print. Each auction that ends prints a label.
+## What it reads today
+eBay Live auctions are read. Buy It Now sales on eBay Live are not read yet, so print those by hand from the side panel.
+
+## Printers that work
+USB and Bluetooth thermal label printers print directly from Chrome, and any printer installed on your computer works through Chrome's print dialog. Built-in settings cover KNAON, JADENS, Nelko, Rongta, Phomemo, MUNBYN, POLONO, iDPRT, Rollo, Arkscan, Zebra, DYMO and Brother QL. Label sizes run from 2" × 1" up to 4" × 6".
+
+## Frequently asked questions
+
+### Does Live Labels work with eBay Live?
+Yes, for auctions. Each auction that ends prints a label with the winner, the item and the winning bid. Buy It Now sales on eBay Live are not read yet.
+
+### Do I have to keep the eBay tab open?
+Yes. Keep your own show's page on ebay.com open in Chrome while you sell.
+
+### How much does Live Labels cost?
+Free for 14 days with every feature and no credit card. Then $10 per month or $99 per year, with unlimited labels.
+
+### Is Live Labels affiliated with eBay?
+No. Live Labels is an independent tool and is not affiliated with, endorsed by or sponsored by eBay.
+
+## More guides
+
+- How to auto-print labels during a Whatnot live show
+- Auto-print sale labels for TikTok Shop LIVE
+- Print labels for Poshmark Posh Show auctions
+- How to pack a live show by box number
+- Printing live-sale labels: by hand, desktop app or Chrome extension
+- Live Labels vs Hot-Label, NotBot, WhatLabels and BundleLive
+- Live Labels home: features, printers and pricing
+Last updated November 22, 2026. Live Labels is an independent Chrome extension by Element 79/47, LLC and is not affiliated with, endorsed by or sponsored by Whatnot, TikTok, eBay or Poshmark. Terms · Privacy · Refunds
+
+---
+Source: https://rostami5-star.github.io/livelabels-media/poshmark-posh-show-labels.html
+
+← Live Labels
+
+# Print labels for Poshmark Posh Show auctions
+
+By Amir Rostami, a Whatnot and eBay seller and the maker of Live Labels. Updated November 22, 2026.
+
+Pick Poshmark in the Live Labels side panel, open the show on poshmark.com in Chrome, and each auction that ends prints a label with the winner, the item and the winning bid.
+
+Add Live Labels to Chrome – 14 days free
+Then $10/month or $99/year, unlimited labels. No card needed to start.
+
+## How to set it up
+
+- Add Live Labels to Chrome and run the setup wizard. It connects your thermal label printer and prints a test label in about two minutes.
+- In the side panel, pick Poshmark and allow it to read poshmark.com.
+- Open the show on poshmark.com in Chrome and keep that tab open while you sell.
+- Turn on Auto-print.
+## What it reads today
+Posh Show auctions are read. Buy Now sales and giveaways on Poshmark are not read yet; you can print those by hand from the side panel.
+
+## Printers that work
+USB and Bluetooth thermal label printers print directly from Chrome, and any printer installed on your computer works through Chrome's print dialog. Built-in settings cover KNAON, JADENS, Nelko, Rongta, Phomemo, MUNBYN, POLONO, iDPRT, Rollo, Arkscan, Zebra, DYMO and Brother QL. Label sizes run from 2" × 1" up to 4" × 6".
+
+## Frequently asked questions
+
+### Does Live Labels work with Poshmark Posh Shows?
+Yes, for auctions. Each auction that ends prints a label with the winner, the item and the winning bid. Buy Now sales and giveaways are not read yet.
+
+### How much does Live Labels cost?
+Free for 14 days with every feature and no credit card. Then $10 per month or $99 per year, with unlimited labels.
+
+### Is Live Labels affiliated with Poshmark?
+No. Live Labels is an independent tool and is not affiliated with, endorsed by or sponsored by Poshmark.
+
+## More guides
+
+- How to auto-print labels during a Whatnot live show
+- Auto-print sale labels for TikTok Shop LIVE
+- Print a label for every eBay Live auction
+- How to pack a live show by box number
+- Printing live-sale labels: by hand, desktop app or Chrome extension
+- Live Labels vs Hot-Label, NotBot, WhatLabels and BundleLive
+- Live Labels home: features, printers and pricing
+Last updated November 22, 2026. Live Labels is an independent Chrome extension by Element 79/47, LLC and is not affiliated with, endorsed by or sponsored by Whatnot, TikTok, eBay or Poshmark. Terms · Privacy · Refunds
+
+---
+Source: https://rostami5-star.github.io/livelabels-media/pack-live-show-by-box-number.html
+
+← Live Labels
+
+# How to pack a live show by box number
+
+By Amir Rostami, a Whatnot and eBay seller and the maker of Live Labels. Updated November 22, 2026.
+
+Give each buyer in the show one box number, put that number on every item they win as it sells, and when the show ends you pack by box instead of reading through a sales list. Live Labels prints the box number on every label automatically.
+
+Add Live Labels to Chrome – 14 days free
+Then $10/month or $99/year, unlimited labels. No card needed to start.
+
+## The steps
+
+- Before the show, set out boxes or bins you can number.
+- As each item sells, label it with the buyer's box number. Live Labels assigns the number and prints it, along with the buyer, item and price.
+- Drop the item in that numbered box. A buyer who wins three items gets three labels with the same box number.
+- After the show, pack each box as one order and add the shipping label from your selling platform.
+- Start the next show with box numbers counting from 1 again.
+## Why box numbers beat a sales list
+A sales list makes you search for each buyer's items after the show. Box numbers sort items into orders while you sell, so combined orders are already together when you start packing.
+
+## Frequently asked questions
+
+### What is a box number?
+Each buyer in a show gets their own box number, printed on every label for that buyer. When someone buys three items, all three labels say the same box, so you pack them together.
+
+### Does this work for giveaways?
+Giveaways on Whatnot print a label like any sale. On Poshmark, giveaways are not read yet, so print those by hand.
+
+### How much does Live Labels cost?
+Free for 14 days with every feature and no credit card. Then $10 per month or $99 per year, with unlimited labels.
+
+## More guides
+
+- How to auto-print labels during a Whatnot live show
+- Auto-print sale labels for TikTok Shop LIVE
+- Print a label for every eBay Live auction
+- Print labels for Poshmark Posh Show auctions
+- Printing live-sale labels: by hand, desktop app or Chrome extension
+- Live Labels vs Hot-Label, NotBot, WhatLabels and BundleLive
+- Live Labels home: features, printers and pricing
+Last updated November 22, 2026. Live Labels is an independent Chrome extension by Element 79/47, LLC and is not affiliated with, endorsed by or sponsored by Whatnot, TikTok, eBay or Poshmark. Terms · Privacy · Refunds
+
+---
+Source: https://rostami5-star.github.io/livelabels-media/live-labels-alternatives.html
+
+← Live Labels
+
+# Live Labels vs Hot-Label, NotBot, WhatLabels and BundleLive
+
+Five tools print a label during a live show on Whatnot, TikTok Shop, eBay Live or Poshmark. Four are Chrome extensions (Live Labels, Hot-Label, WhatLabels, BundleLive) and one is a desktop app (NotBot). They differ most in price model, platforms and whether each buyer keeps one number for the whole show.
+
+Written by Amir Rostami, a Whatnot and eBay seller who makes Live Labels. Facts about other tools come from their own Chrome Web Store pages and websites, checked November 22, 2026. Prices and features change; check each tool's page before you buy. If something here is wrong, email info@element7947.com and it will be fixed.
+
+## Comparison table
+
+ | Live Labels | Hot-Label | NotBot | WhatLabels | BundleLive | 
+Type | Chrome extension | Chrome extension (QZ Tray on Windows or a Mac helper app for printing) | Desktop app with built-in browser (Mac, Windows) | Chrome extension | Chrome extension + web dashboard | 
+Platforms | Whatnot, TikTok Shop, eBay Live auctions, Poshmark Posh Show auctions; Palmstreet (beta) | Whatnot, TikTok Shop LIVE, eBay Live, Palmstreet, Poshmark | Whatnot, Poshmark Live, eBay Live, District, TikTok Shop | Whatnot, eBay Live, Palmstreet, Poshmark, TikTok Shop | Whatnot | 
+Free trial | 14 days, every feature, no card | 300 free labels, no card | 7 days | Not stated | 7 days | 
+Price after trial | $10/month or $99/year, unlimited labels | Label packs or unlimited plan; prices not listed | $30/month | In-app purchases; prices not listed | Not listed | 
+What prints | Lot number, buyer, item, price, box number, your logo | Buyer, item, price, order details | Organization labels (item and/or buyer number) | Buyer, item, price, sale type | Assigns numbered bins; printing not stated | 
+One number per buyer for the whole show | Yes (box number) | Not stated | Yes, in buyer modes | Not stated | Yes (bins) | 
+
+## Which one fits you
+
+- You want one flat price with unlimited labels: Live Labels ($10/month or $99/year) or NotBot ($30/month).
+
+- You want to try with free labels before choosing a plan: Hot-Label starts with 300 free labels.
+
+- You sell on District: NotBot is the only one of the five that lists it.
+
+- You don't want to install anything besides Chrome: Live Labels prints directly to USB and Bluetooth thermal printers from Chrome; QZ Tray and PrintNode are optional.
+
+- You pack by buyer after the show: pick a tool that gives each buyer one number for the whole show (Live Labels box numbers, NotBot buyer modes, BundleLive bins).
+
+- You sell Buy It Now on eBay Live or Poshmark: Live Labels reads auctions only on those two today.
+
+## Frequently asked questions
+
+### What is the best tool to auto-print labels during a Whatnot live show?
+It depends on how you sell. Live Labels, Hot-Label and WhatLabels are Chrome extensions that print a label per sale from the show page; NotBot is a desktop app with its own browser. Live Labels has a flat price with unlimited labels ($10/month or $99/year after a 14-day trial) and gives each buyer one box number for the whole show.
+
+### What is the difference between Live Labels and Hot-Label?
+Both are Chrome extensions that print a sale label when an item sells in a live show. Live Labels has a published flat price ($10/month or $99/year, unlimited labels) and prints a box number per buyer. Hot-Label starts with 300 free labels and offers label packs or an unlimited plan; its store page does not list prices.
+
+### What is the difference between Live Labels and NotBot?
+NotBot is a desktop app for Mac and Windows with a built-in browser, priced at $30/month after a 7-day trial, and it also supports District. Live Labels runs inside the Chrome you already use, costs $10/month or $99/year after a 14-day trial, and prints directly to USB and Bluetooth thermal printers from Chrome.
+
+### Is Live Labels the same as LiveLabel Pro?
+No. Live Labels ("Live Labels: Auto-Print Sale Labels for Live Sellers", Chrome Web Store ID cecmkcfgmebadhpbkjlhcmnnokbjkfke) is made by Element 79/47, LLC. LiveLabel Pro is a separate extension from a different developer.
+
+### Do any of these tools print the USPS shipping label?
+Not as their main job. They print small sale or organization labels during the show so you can sort items by buyer. You still create the postage label in Whatnot, TikTok Shop, eBay or Poshmark after the show. Live Labels can optionally auto-print shipping labels you download.
+
+## Sources
+
+- Live Labels on the Chrome Web Store
+
+- Hot-Label on the Chrome Web Store
+
+- NotBot FAQ
+
+- WhatLabels on the Chrome Web Store
+
+- BundleLive on the Chrome Web Store
+
+## More guides
+
+- Printing live-sale labels: by hand, desktop app or Chrome extension
+- How to auto-print labels during a Whatnot live show
+- Auto-print sale labels for TikTok Shop LIVE
+- Print a label for every eBay Live auction
+- Print labels for Poshmark Posh Show auctions
+- How to pack a live show by box number
+- Live Labels home: features, printers and pricing
+Last updated November 22, 2026. Live Labels is an independent Chrome extension by Element 79/47, LLC and is not affiliated with, endorsed by or sponsored by Whatnot, TikTok, eBay, Poshmark or any tool named on this page. All names are trademarks of their owners. Terms · Privacy · Refunds
+
+---
+Source: https://rostami5-star.github.io/livelabels-media/live-sale-label-tools-compared.html
+
+← Live Labels
+
+# Printing live-sale labels: by hand, desktop app or Chrome extension
+
+By Amir Rostami, a Whatnot and eBay seller and the maker of Live Labels. Updated November 22, 2026.
+
+Live sellers label sold items in one of three ways: writing them by hand, running a desktop app that watches the show, or using a Chrome extension that reads the show page in the browser you already use. Live Labels is the Chrome extension option.
+
+Add Live Labels to Chrome – 14 days free
+Then $10/month or $99/year, unlimited labels. No card needed to start.
+
+## 1. Writing labels by hand
+No cost and no setup, but someone has to write the buyer and item for every sale while the show runs, and handwriting slows down fast shows.
+
+## 2. A desktop app
+Installed software that watches your show and sends labels to a printer. It runs outside the browser and has to be installed and kept running on your computer.
+
+## 3. A Chrome extension (Live Labels)
+Runs inside Chrome next to your show page. Nothing else to install: add it from the Chrome Web Store, connect your printer with the setup wizard, and turn on Auto-print in the side panel. Your sales history, logo and settings stay in your browser.
+
+## What to check before choosing any tool
+
+- Which platforms it reads (Whatnot, TikTok Shop, eBay Live, Poshmark) and which sale types (auctions, Buy It Now, giveaways)
+- Whether it works with the printer you already own
+- What is printed: buyer, item, price, box number, your logo
+- The price after any trial, and whether labels are unlimited
+- What data it collects
+## Frequently asked questions
+
+### Which platforms does Live Labels support?
+Whatnot and TikTok Shop live shows, eBay Live auctions and Poshmark Posh Show auctions, plus Palmstreet (beta) and other live-selling sites you add in its settings.
+
+### What data does Live Labels collect?
+It reads the sale announcements on your live show page only to print your labels. Your sales history, logo and settings stay in your browser. No ads, no analytics, no tracking, and no data is sold.
+
+### How much does Live Labels cost?
+Free for 14 days with every feature and no credit card. Then $10 per month or $99 per year, with unlimited labels.
+
+## More guides
+
+- How to auto-print labels during a Whatnot live show
+- Auto-print sale labels for TikTok Shop LIVE
+- Print a label for every eBay Live auction
+- Print labels for Poshmark Posh Show auctions
+- How to pack a live show by box number
+- Live Labels vs Hot-Label, NotBot, WhatLabels and BundleLive
+- Live Labels home: features, printers and pricing
+Last updated November 22, 2026. Live Labels is an independent Chrome extension by Element 79/47, LLC and is not affiliated with, endorsed by or sponsored by Whatnot, TikTok, eBay or Poshmark. Terms · Privacy · Refunds

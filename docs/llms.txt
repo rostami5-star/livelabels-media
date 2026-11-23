@@ -13,7 +13,7 @@ Not to be confused with other tools that have "Live Labels" in their name. This 
 
 ## Key facts
 
-- Platforms: Whatnot and TikTok Shop live shows in Chrome; other live-selling sites can be added in Settings.
+- Platforms: Whatnot, TikTok Shop, eBay Live and Poshmark Posh Show live shows in Chrome (Palmstreet in beta); other live-selling sites can be added in Settings.
 - Label contents: lot number, buyer, item, price, box number, date, header text and the seller's logo (each optional).
 - Box numbers: each buyer gets one box number that repeats on every label they buy, so their items go in one package.
 - Printers: USB and Bluetooth thermal printers directly from Chrome; any installed printer via Chrome's print dialog; QZ Tray and PrintNode for silent printing. Built-in settings for KNAON, JADENS, Nelko, Rongta, Phomemo, MUNBYN, POLONO, iDPRT, Rollo, Arkscan, Zebra, DYMO, Brother QL.
@@ -27,10 +27,15 @@ Not to be confused with other tools that have "Live Labels" in their name. This 
 - Privacy: sales history, logo and settings stay in the browser; no ads, analytics or tracking.
 - Current version: 1.29.13 (November 2026).
 
+## Who makes it
+
+Built by Amir Rostami, a Whatnot and eBay seller, at Element 79/47, LLC (Acworth, Georgia). Contact: info@element7947.com.
+
 ## Links
 
 - [Website](https://rostami5-star.github.io/livelabels-media/): overview, FAQ
 - [Pricing](https://rostami5-star.github.io/livelabels-media/pricing.md): plans in plain text
+- [Full text for AI](https://rostami5-star.github.io/livelabels-media/llms-full.txt): every guide in one file
 - [Chrome Web Store listing](https://chromewebstore.google.com/detail/cecmkcfgmebadhpbkjlhcmnnokbjkfke): install
 - [Instagram @livelabels.app](https://www.instagram.com/livelabels.app/): weekly live-selling tips
 - [TikTok @livelabels.app](https://www.tiktok.com/@livelabels.app)
@@ -42,4 +47,5 @@ Not to be confused with other tools that have "Live Labels" in their name. This 
 - [Print a label for every eBay Live auction](https://rostami5-star.github.io/livelabels-media/ebay-live-auction-labels.html)
 - [Print labels for Poshmark Posh Show auctions](https://rostami5-star.github.io/livelabels-media/poshmark-posh-show-labels.html)
 - [How to pack a live show by box number](https://rostami5-star.github.io/livelabels-media/pack-live-show-by-box-number.html)
+- [Live Labels vs Hot-Label, NotBot, WhatLabels and BundleLive](https://rostami5-star.github.io/livelabels-media/live-labels-alternatives.html)
 - [Printing live-sale labels: by hand, desktop app or Chrome extension](https://rostami5-star.github.io/livelabels-media/live-sale-label-tools-compared.html)
