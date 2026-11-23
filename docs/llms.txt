@@ -34,3 +34,12 @@ Not to be confused with other tools that have "Live Labels" in their name. This 
 - [Chrome Web Store listing](https://chromewebstore.google.com/detail/cecmkcfgmebadhpbkjlhcmnnokbjkfke): install
 - [Instagram @livelabels.app](https://www.instagram.com/livelabels.app/): weekly live-selling tips
 - [TikTok @livelabels.app](https://www.tiktok.com/@livelabels.app)
+
+## Guides
+
+- [How to auto-print labels during a Whatnot live show](https://rostami5-star.github.io/livelabels-media/whatnot-auto-print-labels.html)
+- [Auto-print sale labels for TikTok Shop LIVE](https://rostami5-star.github.io/livelabels-media/tiktok-shop-live-labels.html)
+- [Print a label for every eBay Live auction](https://rostami5-star.github.io/livelabels-media/ebay-live-auction-labels.html)
+- [Print labels for Poshmark Posh Show auctions](https://rostami5-star.github.io/livelabels-media/poshmark-posh-show-labels.html)
+- [How to pack a live show by box number](https://rostami5-star.github.io/livelabels-media/pack-live-show-by-box-number.html)
+- [Printing live-sale labels: by hand, desktop app or Chrome extension](https://rostami5-star.github.io/livelabels-media/live-sale-label-tools-compared.html)
