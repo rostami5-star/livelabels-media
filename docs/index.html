@@ -125,6 +125,9 @@ footer { margin-top: 56px; padding-bottom: 40px; border-top: 1px solid var(--lin
 video.reel { width: 100%; max-width: 320px; height: auto; aspect-ratio: 9 / 16; border-radius: 16px; margin: 24px auto 8px; display: block; background: #000; }
 .stars { color: #f5a623; letter-spacing: 2px; }
 </style>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"VideoObject","name":"Live Labels demo: which box is whose?","description":"A sale closes during a live show, Live Labels prints the label, and the label shows the buyer's box number.","thumbnailUrl":"https://rostami5-star.github.io/livelabels-media/img/box-number-demo.jpg","contentUrl":"https://rostami5-star.github.io/livelabels-media/img/box-number-demo.mp4","uploadDate":"2026-11-24","duration":"PT7S"}
+</script>
 </head>
 <body>
 <header><img src="img/icon.png?v=2" alt="Live Labels logo" width="40" height="40"><b>Live Labels</b> <span class="small" style="margin-left:auto"><a href="es/">Español</a> · <a href="de/">Deutsch</a></span></header>
@@ -133,8 +136,12 @@ video.reel { width: 100%; max-width: 320px; height: auto; aspect-ratio: 9 / 16; 
 <p class="lead"><strong>Live Labels is a Chrome extension for live sellers.</strong> The moment an item sells in your Whatnot, TikTok Shop, eBay Live or Poshmark show, it prints a label on your thermal printer with the lot number, the buyer's username, the item, the price, the buyer's box number and your shop logo. No typing, no sticky notes, no sorting out who bought what after the show.</p>
 <p class="small" style="max-width:720px"><strong>Good to know:</strong> these are sorting labels for your show, not postage. Your shipping labels still come from Whatnot, TikTok Shop, eBay or Poshmark. You need Chrome on a computer with your show page open, and a label printer.</p>
 <a class="cta" href="https://chromewebstore.google.com/detail/cecmkcfgmebadhpbkjlhcmnnokbjkfke?utm_source=website&amp;utm_medium=cta&amp;utm_campaign=site">Add to Chrome – 14 days free</a>
-<span class="small">Then $10/month or $99/year. No card needed to start.</span>
+<span class="small"><strong>Try free for 14 days · No card required.</strong> Then $10/month or $99/year.</span>
 <p class="small"><span class="stars" aria-hidden="true">★★★★★</span> Rated 5.0 on the <a href="https://chromewebstore.google.com/detail/cecmkcfgmebadhpbkjlhcmnnokbjkfke/reviews?utm_source=website&amp;utm_medium=rating&amp;utm_campaign=site">Chrome Web Store</a>.</p>
+<video class="reel" controls muted playsinline preload="metadata" poster="img/box-number-demo.jpg" width="540" height="960" aria-label="7-second demo: a sale closes during a live show, the label prints, and it shows the buyer's box number">
+  <source src="img/box-number-demo.mp4" type="video/mp4">
+</video>
+<p class="small" style="text-align:center">7 seconds: a sale closes, the label prints, and it says which box the item goes in.</p>
 <img class="wide" src="img/marquee.png" alt="Live Labels mascot next to a printed sale label showing lot number, buyer, item, price and a shop logo" width="1400" height="560">
 
 <h2>How to auto-print labels in a live show</h2>
@@ -144,6 +151,17 @@ video.reel { width: 100%; max-width: 320px; height: auto; aspect-ratio: 9 / 16; 
   <li>Open the Live Labels side panel and turn on <strong>Auto-print</strong>.</li>
   <li>Sell. Every time an auction ends or an item sells, a label comes out of your printer. Stick it on the item and keep the show going.</li>
 </ol>
+
+<h2>What works where</h2>
+<table>
+  <tr><th>Platform</th><th>What prints a label</th><th>Not read yet</th></tr>
+  <tr><td>Whatnot</td><td>Auctions that end and items that sell in your show</td><td>–</td></tr>
+  <tr><td>TikTok Shop LIVE</td><td>Auctions that end and items that sell in your show</td><td>–</td></tr>
+  <tr><td>eBay Live</td><td>Auctions that end</td><td>Buy It Now sales</td></tr>
+  <tr><td>Poshmark Posh Shows</td><td>Auctions that end, with the winner, item and winning bid</td><td>Buy Now sales and giveaways</td></tr>
+  <tr><td>Palmstreet</td><td>Beta</td><td>–</td></tr>
+</table>
+<p class="small"><strong>You need:</strong> Chrome on a computer with your show page open, and a label printer (USB, Bluetooth, or any printer installed on your computer). For eBay Live and Poshmark, pick the platform in the Live Labels side panel and allow the extension to read that site. Live Labels is not affiliated with Whatnot, TikTok, eBay or Poshmark.</p>
 
 <video class="reel" controls muted playsinline preload="none" poster="img/label-prints-itself.jpg" width="540" height="960" aria-label="15-second video: an item sells in a live show and Live Labels prints the label">
   <source src="img/label-prints-itself.mp4" type="video/mp4">

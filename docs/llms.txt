@@ -1,6 +1,6 @@
 # Live Labels
 
-> Live Labels is a Chrome extension for live sellers. The moment an item sells in a Whatnot, TikTok Shop or eBay Live show, it prints a label on the seller's thermal label printer with the lot number, buyer username, item, price, the buyer's box number and the seller's logo. Free for 14 days, then $10/month or $99/year. Independent; not affiliated with Whatnot, TikTok or eBay.
+> Live Labels is a Chrome extension for live sellers. The moment an item sells in a Whatnot, TikTok Shop, eBay Live or Poshmark show, it prints a label on the seller's thermal label printer with the lot number, buyer username, item, price, the buyer's box number and the seller's logo. Free for 14 days with no credit card, then $10/month or $99/year. Independent; not affiliated with Whatnot, TikTok, eBay or Poshmark.
 
 Not to be confused with other tools that have "Live Labels" in their name. This one is published on the Chrome Web Store as "Live Labels: Auto-Print Sale Labels for Live Sellers" (ID cecmkcfgmebadhpbkjlhcmnnokbjkfke) and posts on Instagram and TikTok as @livelabels.app.
 
