@@ -1,6 +1,6 @@
 # Live Labels
 
-> Live Labels is a Chrome extension for live sellers. The moment an item sells in a Whatnot, TikTok Shop or eBay Live show, it prints a label on the seller's thermal label printer with the lot number, buyer username, item, price, the buyer's box number and the seller's logo. Free for 14 days, then $10/month or $99/year. Independent; not affiliated with Whatnot, TikTok or eBay.
+> Live Labels is a Chrome extension for live sellers. The moment an item sells in a Whatnot, TikTok Shop or eBay Live show, it prints a label on the seller's thermal label printer with the lot number, buyer username, item, price, the buyer's box number and the seller's logo. Free for 14 days or your first 3 show days, whichever is longer, then $10/month or $99/year. Independent; not affiliated with Whatnot, TikTok or eBay.
 
 Not to be confused with other tools that have "Live Labels" in their name. This one is published on the Chrome Web Store as "Live Labels: Auto-Print Sale Labels for Live Sellers" (ID cecmkcfgmebadhpbkjlhcmnnokbjkfke) and posts on Instagram and TikTok as @livelabels.app.
 
@@ -57,7 +57,7 @@ Source: https://rostami5-star.github.io/livelabels-media/
 
 Live Labels is a Chrome extension for live sellers. The moment an item sells in your Whatnot, TikTok Shop, eBay Live or Poshmark show, it prints a label on your thermal printer with the lot number, the buyer's username, the item, the price, the buyer's box number and your shop logo. No typing, no sticky notes, no sorting out who bought what after the show.
 
-Add to Chrome – 14 days free
+Add to Chrome – free for 14 days or 3 shows
 Then $10/month or $99/year. No card needed to start.
 ★★★★★ Rated 5.0 on the Chrome Web Store.
 
@@ -121,7 +121,7 @@ USB and Bluetooth thermal label printers print directly from Chrome. Any printer
 
  Plan | Price | What you get | 
 
- Free trial | $0 for 14 days | Every feature, unlimited labels, no credit card | 
+ Free trial | $0 for 14 days or your first 3 show days, whichever is longer | Every feature, unlimited labels, no credit card | 
 
  Monthly | $10 / month | Every feature, unlimited labels, cancel any time | 
 
@@ -157,7 +157,7 @@ Each buyer in a show gets their own box number, printed on every label for that 
 
 ### How much does Live Labels cost?
 
-Free for 14 days with every feature and no credit card. Then $10 per month or $99 per year, with unlimited labels.
+Free for 14 days or your first 3 show days, whichever is longer, with every feature and no credit card. Then $10 per month or $99 per year, with unlimited labels.
 
 ### What data does Live Labels collect?
 
@@ -207,7 +207,7 @@ By Amir Rostami, a Whatnot and eBay seller and the maker of Live Labels. Updated
 
 Live Labels is a Chrome extension that prints a label the moment an auction ends or an item sells in your Whatnot show, with the lot number, the buyer's username, the item, the price, the buyer's box number and your shop logo. You stick the label on the item and keep selling.
 
-Add Live Labels to Chrome – 14 days free
+Add Live Labels to Chrome – free for 14 days or 3 shows
 Then $10/month or $99/year, unlimited labels. No card needed to start.
 
 ## How to set it up
@@ -243,7 +243,7 @@ Yes. Every sale is listed in the side panel with one-click reprint, and you can 
 Yes. Show controls (beta) press a button on your show page, such as Start auction or Giveaway, or send a message to the chat from a keyboard shortcut; macro pads and Stream Decks work by sending the same shortcut.
 
 ### How much does Live Labels cost?
-Free for 14 days with every feature and no credit card. Then $10 per month or $99 per year, with unlimited labels.
+Free for 14 days or your first 3 show days, whichever is longer, with every feature and no credit card. Then $10 per month or $99 per year, with unlimited labels.
 
 ### Is Live Labels made by Whatnot?
 No. Live Labels is an independent tool and is not affiliated with, endorsed by or sponsored by Whatnot.
@@ -270,7 +270,7 @@ By Amir Rostami, a Whatnot and eBay seller and the maker of Live Labels. Updated
 
 Live Labels detects sales on TikTok Shop live show pages in Chrome and prints a label for each one with the lot number, the buyer's username, the item, the price, the buyer's box number and your shop logo, so every order is marked before your LIVE ends.
 
-Add Live Labels to Chrome – 14 days free
+Add Live Labels to Chrome – free for 14 days or 3 shows
 Then $10/month or $99/year, unlimited labels. No card needed to start.
 
 ## How to set it up
@@ -300,7 +300,7 @@ No. It prints a sale label for each item during the LIVE so you can sort orders;
 No. USB and Bluetooth thermal label printers print directly from Chrome, and any installed printer works through Chrome's print dialog.
 
 ### How much does Live Labels cost?
-Free for 14 days with every feature and no credit card. Then $10 per month or $99 per year, with unlimited labels.
+Free for 14 days or your first 3 show days, whichever is longer, with every feature and no credit card. Then $10 per month or $99 per year, with unlimited labels.
 
 ### Is Live Labels affiliated with TikTok?
 No. Live Labels is an independent tool and is not affiliated with, endorsed by or sponsored by TikTok.
@@ -327,7 +327,7 @@ By Amir Rostami, a Whatnot and eBay seller and the maker of Live Labels. Updated
 
 Pick eBay Live in the Live Labels side panel, open your own show's page on ebay.com in Chrome, and each auction that ends prints a label with the winner, the item and the winning bid.
 
-Add Live Labels to Chrome – 14 days free
+Add Live Labels to Chrome – free for 14 days or 3 shows
 Then $10/month or $99/year, unlimited labels. No card needed to start.
 
 ## How to set it up
@@ -351,7 +351,7 @@ Yes, for auctions. Each auction that ends prints a label with the winner, the it
 Yes. Keep your own show's page on ebay.com open in Chrome while you sell.
 
 ### How much does Live Labels cost?
-Free for 14 days with every feature and no credit card. Then $10 per month or $99 per year, with unlimited labels.
+Free for 14 days or your first 3 show days, whichever is longer, with every feature and no credit card. Then $10 per month or $99 per year, with unlimited labels.
 
 ### Is Live Labels affiliated with eBay?
 No. Live Labels is an independent tool and is not affiliated with, endorsed by or sponsored by eBay.
@@ -378,7 +378,7 @@ By Amir Rostami, a Whatnot and eBay seller and the maker of Live Labels. Updated
 
 Pick Poshmark in the Live Labels side panel, open the show on poshmark.com in Chrome, and each auction that ends prints a label with the winner, the item and the winning bid.
 
-Add Live Labels to Chrome – 14 days free
+Add Live Labels to Chrome – free for 14 days or 3 shows
 Then $10/month or $99/year, unlimited labels. No card needed to start.
 
 ## How to set it up
@@ -399,7 +399,7 @@ USB and Bluetooth thermal label printers print directly from Chrome, and any pri
 Yes, for auctions. Each auction that ends prints a label with the winner, the item and the winning bid. Buy Now sales and giveaways are not read yet.
 
 ### How much does Live Labels cost?
-Free for 14 days with every feature and no credit card. Then $10 per month or $99 per year, with unlimited labels.
+Free for 14 days or your first 3 show days, whichever is longer, with every feature and no credit card. Then $10 per month or $99 per year, with unlimited labels.
 
 ### Is Live Labels affiliated with Poshmark?
 No. Live Labels is an independent tool and is not affiliated with, endorsed by or sponsored by Poshmark.
@@ -426,7 +426,7 @@ By Amir Rostami, a Whatnot and eBay seller and the maker of Live Labels. Updated
 
 Give each buyer in the show one box number, put that number on every item they win as it sells, and when the show ends you pack by box instead of reading through a sales list. Live Labels prints the box number on every label automatically.
 
-Add Live Labels to Chrome – 14 days free
+Add Live Labels to Chrome – free for 14 days or 3 shows
 Then $10/month or $99/year, unlimited labels. No card needed to start.
 
 ## The steps
@@ -448,7 +448,7 @@ Each buyer in a show gets their own box number, printed on every label for that 
 Giveaways on Whatnot print a label like any sale. On Poshmark, giveaways are not read yet, so print those by hand.
 
 ### How much does Live Labels cost?
-Free for 14 days with every feature and no credit card. Then $10 per month or $99 per year, with unlimited labels.
+Free for 14 days or your first 3 show days, whichever is longer, with every feature and no credit card. Then $10 per month or $99 per year, with unlimited labels.
 
 ## More guides
 
@@ -477,7 +477,7 @@ Written by Amir Rostami, a Whatnot and eBay seller who makes Live Labels. Facts 
  | Live Labels | Hot-Label | NotBot | WhatLabels | BundleLive | 
 Type | Chrome extension | Chrome extension (QZ Tray on Windows or a Mac helper app for printing) | Desktop app with built-in browser (Mac, Windows) | Chrome extension | Chrome extension + web dashboard | 
 Platforms | Whatnot, TikTok Shop, eBay Live auctions, Poshmark Posh Show auctions; Palmstreet (beta) | Whatnot, TikTok Shop LIVE, eBay Live, Palmstreet, Poshmark | Whatnot, Poshmark Live, eBay Live, District, TikTok Shop | Whatnot, eBay Live, Palmstreet, Poshmark, TikTok Shop | Whatnot | 
-Free trial | 14 days, every feature, no card | 300 free labels, no card | 7 days | Not stated | 7 days | 
+Free trial | 14 days or first 3 show days, whichever is longer; every feature, no card | 300 free labels, no card | 7 days | Not stated | 7 days | 
 Price after trial | $10/month or $99/year, unlimited labels | Label packs or unlimited plan; prices not listed | $30/month | In-app purchases; prices not listed | Not listed | 
 What prints | Lot number, buyer, item, price, box number, your logo | Buyer, item, price, order details | Organization labels (item and/or buyer number) | Buyer, item, price, sale type | Assigns numbered bins; printing not stated | 
 One number per buyer for the whole show | Yes (box number) | Not stated | Yes, in buyer modes | Not stated | Yes (bins) | 
@@ -499,13 +499,13 @@ One number per buyer for the whole show | Yes (box number) | Not stated | Yes, i
 ## Frequently asked questions
 
 ### What is the best tool to auto-print labels during a Whatnot live show?
-It depends on how you sell. Live Labels, Hot-Label and WhatLabels are Chrome extensions that print a label per sale from the show page; NotBot is a desktop app with its own browser. Live Labels has a flat price with unlimited labels ($10/month or $99/year after a 14-day trial) and gives each buyer one box number for the whole show.
+It depends on how you sell. Live Labels, Hot-Label and WhatLabels are Chrome extensions that print a label per sale from the show page; NotBot is a desktop app with its own browser. Live Labels has a flat price with unlimited labels ($10/month or $99/year after a free trial (14 days or your first 3 show days, whichever is longer)) and gives each buyer one box number for the whole show.
 
 ### What is the difference between Live Labels and Hot-Label?
 Both are Chrome extensions that print a sale label when an item sells in a live show. Live Labels has a published flat price ($10/month or $99/year, unlimited labels) and prints a box number per buyer. Hot-Label starts with 300 free labels and offers label packs or an unlimited plan; its store page does not list prices.
 
 ### What is the difference between Live Labels and NotBot?
-NotBot is a desktop app for Mac and Windows with a built-in browser, priced at $30/month after a 7-day trial, and it also supports District. Live Labels runs inside the Chrome you already use, costs $10/month or $99/year after a 14-day trial, and prints directly to USB and Bluetooth thermal printers from Chrome.
+NotBot is a desktop app for Mac and Windows with a built-in browser, priced at $30/month after a 7-day trial, and it also supports District. Live Labels runs inside the Chrome you already use, costs $10/month or $99/year after a free trial (14 days or your first 3 show days, whichever is longer), and prints directly to USB and Bluetooth thermal printers from Chrome.
 
 ### Is Live Labels the same as LiveLabel Pro?
 No. Live Labels ("Live Labels: Auto-Print Sale Labels for Live Sellers", Chrome Web Store ID cecmkcfgmebadhpbkjlhcmnnokbjkfke) is made by Element 79/47, LLC. LiveLabel Pro is a separate extension from a different developer.
@@ -547,7 +547,7 @@ By Amir Rostami, a Whatnot and eBay seller and the maker of Live Labels. Updated
 
 Live sellers label sold items in one of three ways: writing them by hand, running a desktop app that watches the show, or using a Chrome extension that reads the show page in the browser you already use. Live Labels is the Chrome extension option.
 
-Add Live Labels to Chrome – 14 days free
+Add Live Labels to Chrome – free for 14 days or 3 shows
 Then $10/month or $99/year, unlimited labels. No card needed to start.
 
 ## 1. Writing labels by hand
@@ -575,7 +575,7 @@ Whatnot and TikTok Shop live shows, eBay Live auctions and Poshmark Posh Show au
 It reads the sale announcements on your live show page only to print your labels. Your sales history, logo and settings stay in your browser. No ads, no analytics, no tracking, and no data is sold.
 
 ### How much does Live Labels cost?
-Free for 14 days with every feature and no credit card. Then $10 per month or $99 per year, with unlimited labels.
+Free for 14 days or your first 3 show days, whichever is longer, with every feature and no credit card. Then $10 per month or $99 per year, with unlimited labels.
 
 ## More guides
 

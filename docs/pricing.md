@@ -3,7 +3,7 @@
 Last updated: October 30, 2026. All prices in USD.
 
 ## Free trial
-- Price: $0 for 14 days
+- Price: $0 for 14 days or your first 3 show days, whichever is longer
 - Limits: none; every feature, unlimited labels
 - No credit card needed to start
 
